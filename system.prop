@@ -14,14 +14,14 @@
 # limitations under the License.
 #
 
-ro.product.brand=motorola
-ro.product.name=fiji_64
-ro.product.device=fiji
-ro.build.product=fiji_64
+ro.product.brand=nokia
+ro.product.name=roo_sprout
+ro.product.device=roo_sprout
+ro.build.product=roo_sprout
 ro.treble.enabled=true
 ro.boot.avb_version=1.0
 ro.boot.vbmeta.avb_version=1.0
 ro.sys.usb.storage.type=mtp
-ro.pt.mtp_name=moto e⁶ˢ
-ro.pt.mtp.print.model=moto e⁶ˢ
-ro.pt.mtp_pc_name=moto e⁶ˢ
+ro.pt.mtp_name=Nokia 3.1 Plus
+ro.pt.mtp.print.model=Nokia 3.1 Plus
+ro.pt.mtp_pc_name=Nokia 3.1 Plus

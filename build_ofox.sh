@@ -36,5 +36,5 @@ export FOX_ADVANCED_SECURITY="1"
 
 # Build Time
 source build/envsetup.sh
-lunch omni_fiji-eng
-mka recoveryimage
+lunch omni_roo_sprout-eng
+mka bootimage

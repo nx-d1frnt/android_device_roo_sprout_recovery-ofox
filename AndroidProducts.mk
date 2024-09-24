@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-       $(LOCAL_DIR)/omni_fiji.mk
+       $(LOCAL_DIR)/omni_roo_sprout.mk
